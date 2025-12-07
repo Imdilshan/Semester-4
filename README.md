@@ -6,7 +6,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 Welcome to my **Semester 4** repository! 🎯  
-This repository contains my solutions to **Java** (Object Oriented Programming using JAVA) assignments, along with practice problems and challenges solved on HackerRank and LeetCode.
+This repository contains my solutions to **Java** (Object Oriented Programming using JAVA) assignments, along with practice problems and challenges solved on **HackerRank** and **LeetCode**.
 
 ---
 
